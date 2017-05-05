@@ -1,0 +1,29 @@
+h1 {
+	font-size: 100 px;
+	font-style: Arial;
+	color:white;
+	background:brown;
+}
+
+.container{
+	float:left;
+	background:brown;
+	height:200px;
+	width:200px;
+}
+
+.wins-losses {
+	margin-left: 50px;
+	float:left;
+	background:red;
+
+}	
+.picks{
+	clear:both;
+}
+
+.container2{
+	background:brown;
+	height:200px;
+	width:200px;
+}
