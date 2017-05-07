@@ -1,29 +1,73 @@
+body {
+	text-align: center;
+	color: white;
+	background-image: url("http://pre12.deviantart.net/7080/th/pre/i/2010/088/3/7/__pick_of_destiny___by_woncrievn.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 100%, 100%;
+	background-position: center;
+
+}
+
+
+
 h1 {
-	font-size: 100 px;
+	font-size: 80px;
 	font-style: Arial;
 	color:white;
 	background:brown;
 }
 
-.container{
-	float:left;
-	background:brown;
+p {
+	 background: rgba(255, 230, 0, 0.5);
+	font-size: 25px;
+}
+
+h3 {
+font-size: 25px;
+
+}
+#random-number{
+	
+	color:white;
+	
+	font-size: 50px;
+	text-align:center;
 	height:200px;
 	width:200px;
 }
 
+
+
+
 .wins-losses {
-	margin-left: 50px;
-	float:left;
+	font-size: 25px;
+	margin: auto;
+	color: white;
 	background:red;
+	padding-right:25px;
+	width:200px;
 
 }	
+
+h3 {	
+font-size: 25px;
+
+}
+	
 .picks{
-	clear:both;
+	margin-top:10px;
 }
 
 .container2{
+	margin: auto;
 	background:brown;
-	height:200px;
+	height:60px;
 	width:200px;
+}
+
+#total-score{
+	color: white;
+	font-size: 50px;
+	padding-top: 10px;
+	text-align: center;
 }
